@@ -6,9 +6,11 @@
     "ReplicatedStorage": {
       "$className": "ReplicatedStorage",
 
-      "Icon": {
-        "$path": "src/Icon"
-      }
+      "Packages": {
+        "$path": "Packages",
+        "Icon": {
+          "$path": "game/Icon"
+        }
     }
   }
 }
